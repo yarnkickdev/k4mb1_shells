@@ -1,3 +1,5 @@
+https://forum.cfx.re/t/free-props-starter-shells-for-housing-scripts/4826922
+
 Container Shell
 42.34, -46.91, -0.04
 
